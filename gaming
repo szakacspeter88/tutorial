@@ -1,1 +1,4 @@
-
+# How to install RetroPie for Arch Linux 
+git clone --depth=1 https://github.com/V0rt3x667/ArchyPie-Setup.git 
+cd ArchyPie-Setup
+./archypie_setup.sh
